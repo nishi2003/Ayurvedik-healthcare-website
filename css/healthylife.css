@@ -1,0 +1,33 @@
+h1{
+  margin: 10px;
+}
+body{
+  background-image: url(../Imagies/lifeback.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.inner{
+  display: flex;
+  border: 1px solid white;
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+
+  padding: 20px;
+  margin: 20px;
+}
+.div1{
+  flex-basis: 20%;
+}
+.ima{
+  border-radius: 10px;
+  cursor: pointer;
+}
+.div2{
+  flex-basis: 90%;
+  /* color: white; */
+}
+p{
+  font-size: 1.2rem;
+  margin: 2px;
+}

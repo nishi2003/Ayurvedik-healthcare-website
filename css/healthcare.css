@@ -1,0 +1,23 @@
+body{
+  background-color: #BFCCB5;
+  text-align: center;
+  font-family: sans-serif;
+}
+.Div1{
+  width: 1000px;
+  margin-left: 150px;
+  margin-right: 20px;
+  text-align: center;
+  display: flex;
+  border: 1px solid black;
+}
+
+.lodiv{
+  text-align: center;
+  padding: 5px;
+  margin-top: 5px;
+  margin-left: 15px;
+  width: 300px;
+  display: inline-block;
+  height: 400px;
+}
